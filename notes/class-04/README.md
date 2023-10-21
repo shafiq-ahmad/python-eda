@@ -13,6 +13,7 @@ Missing values rules
 
 - If too much missing value remove them mostly (if more than 50% and field isn't important)
 
+See exercise file [Click Here ...](../../exercise-files/class-04/missing-values.ipynb)
 
 ## Explore the Data
 

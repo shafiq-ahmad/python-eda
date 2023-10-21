@@ -46,7 +46,7 @@ df['field'].fillna(df['field'].mode()[0], inplace=True)
 - mode: max number of occurance of a number
   - if it is more two then both are mod and we will pick first
 
-## Steps
+## Steps in phyton
 
 - Import
 - Dataset
