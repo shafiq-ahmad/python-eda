@@ -1,4 +1,4 @@
-# Class 07: Exploratory Data Analysis (EDA)
+# Class 02: Exploratory Data Analysis (EDA)
 
 ## Steps in EDA
 

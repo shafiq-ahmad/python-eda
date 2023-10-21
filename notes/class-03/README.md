@@ -1,4 +1,4 @@
-# Class 03: EDA
+# Class 03: Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis (EDA)
 EDA is a method used to `analyze` and `summarize` the datasets. In python you can use pandas library to perform EDA on datasets.
