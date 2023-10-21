@@ -10,4 +10,3 @@ EDA is Exploring data
 Data Wrangling is dealing with data
 
 - Data normalization
-
